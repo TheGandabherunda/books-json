@@ -2,7 +2,6 @@
   {
     "order": 1,
     "title": "Invocation",
-    "slug": "invocation",
     "verses": [
       {
         "number": 1,
@@ -24,7 +23,6 @@
   {
     "order": 2,
     "title": "Meaning of life",
-    "slug": "meaning-of-life",
     "verses": [
       {
         "number": 4,
@@ -56,7 +54,6 @@
   {
     "order": 3,
     "title": "Humans or demons?",
-    "slug": "humans-or-demons",
     "verses": [
       {
         "number": 9,
