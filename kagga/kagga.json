@@ -1,0 +1,88 @@
+[
+  {
+    "order": 1,
+    "title": "Invocation",
+    "slug": "invocation",
+    "verses": [
+      {
+        "number": 1,
+        "text": "Verse 1 content here",
+        "explanation": "Explanation of verse 1 here"
+      },
+      {
+        "number": 2,
+        "text": "Verse 2 content here",
+        "explanation": "Explanation of verse 2 here"
+      },
+      {
+        "number": 3,
+        "text": "Verse 3 content here",
+        "explanation": "Explanation of verse 3 here"
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "title": "Meaning of life",
+    "slug": "meaning-of-life",
+    "verses": [
+      {
+        "number": 4,
+        "text": "Verse 4 content here",
+        "explanation": "Explanation of verse 4 here"
+      },
+      {
+        "number": 5,
+        "text": "Verse 5 content here",
+        "explanation": "Explanation of verse 5 here"
+      },
+      {
+        "number": 6,
+        "text": "Verse 6 content here",
+        "explanation": "Explanation of verse 6 here"
+      },
+      {
+        "number": 7,
+        "text": "Verse 7 content here",
+        "explanation": "Explanation of verse 7 here"
+      },
+      {
+        "number": 8,
+        "text": "Verse 8 content here",
+        "explanation": "Explanation of verse 8 here"
+      }
+    ]
+  },
+  {
+    "order": 3,
+    "title": "Humans or demons?",
+    "slug": "humans-or-demons",
+    "verses": [
+      {
+        "number": 9,
+        "text": "Verse 9 content here",
+        "explanation": "Explanation of verse 9 here"
+      },
+      {
+        "number": 10,
+        "text": "Verse 1 content here",
+        "explanation": "Explanation of verse 1 here"
+      },
+      {
+        "number": 11,
+        "text": "Verse 1 content here",
+        "explanation": "Explanation of verse 1 here"
+      },
+      {
+        "number": 12,
+        "text": "Verse 2 content here",
+        "explanation": "Explanation of verse 2 here"
+      },
+      {
+        "number": 13,
+        "text": "Verse 3 content here",
+        "explanation": "Explanation of verse 3 here"
+      }
+    ]
+  }
+]
